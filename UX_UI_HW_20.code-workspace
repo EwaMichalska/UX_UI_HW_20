@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../Challenge 19/UX_UI_HW_19"
+		},
+		{
+			"path": "."
+		},
+		{
+			"name": "UX_UI_HW_20-1",
+			"path": "../UX_UI_HW_20-1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UX_UI_HW_20"
+	}
+}
